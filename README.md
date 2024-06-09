@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## You will also need to run 
+
+### npm install -g json-server
+
+### json-server fakeAPI.json --watch
+
+
 ## Available Scripts
 
 In the project directory, you can run:
