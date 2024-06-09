@@ -1,0 +1,293 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "ABOUT THE HEAVEN & EARTH GROCERY STORE",
+      "author": "James McBride",
+      "year": 2023,
+      "pages": 400,
+      "price": 32.5,
+      "imageName": "../images/grocery.jpg",
+      "sale": 50,
+      "description": "Set in the 1920s and 30s, The Heaven & Earth Grocery Store follows the fortunes of a group of Jewish immigrants and African Americans who live together on Chicken Hill in Pottstown, Pennsylvania. Moshe, a Romanian Jew who owns the local theatre and dance hall, falls for Chona, a beautiful Jewish American. She is an avid reader, outspoken against injustice who, despite being “crippled from polio”, harbours “not an ounce of bitterness or shred of shame”. While Moshe makes a success of his business (alternating between klezmer and jazz), she runs the novel's eponymous grocery store, offering credit to those in need.After 12 years of happy marriage, Chona develops a mysterious illness. She refuses to be treated by the odious Doc Roberts, who marches with the Ku Klux Klan. Instead, she helps Moshe's Black handyman Nate Timblin and his wife, Addie, protect a 12-year-old orphan named Dodo who lost his hearing (and his mother) in an explosion caused by a kitchen stove. After Dodo is incarcerated in Pennhurst, an abusive mental institution, the community unite in a bid to free him.McBride effortlessly transports us to another time and place. A musician as well as a writer, he is clearly at home in this period and milieu - his father was African American, his mother a Jewish immigrant from Poland. Every member of his diverse cast earns their place in this epic tale. McBride's plotting is intricate but deftly handled, his rich characterisation and attention to detail are impressive, his compassion exemplary.",
+      "genre": "FICTION",
+      "stock": 5
+    },
+    {
+      "id": 2,
+      "title": "CheckMate",
+      "author": "Ali Hazelwood",
+      "year": 2023,
+      "pages": 239,
+      "price": 41.99,
+      "imageName": "../images/checkmate.jpg",
+      "sale": 0,
+      "description": "In this clever and swoonworthy YA debut from the New York Times bestselling author of The Love Hypothesis, life’s moving pieces bring rival chess players together in a match for the heart. Mallory Greenleaf is done with chess. Every move counts nowadays; after the sport led to the destruction of her family four years earlier, Mallory’s focus is on her mom, her sisters, and the dead-end job that keeps the lights on. That is, until she begrudgingly agrees to play in one last charity tournament and inadvertently wipes the board with notorious “Kingkiller” Nolan Sawyer: current world champion and reigning Bad Boy of chess.Nolan’s loss to an unknown rook-ie shocks everyone. What’s even more confusing? His desire to cross pawns again. What kind of gambit is Nolan playing? The smart move would be to walk away. Resign. Game over. But Mallory’s victory opens the door to sorely needed cash-prizes and despite everything, she can’t help feeling drawn to the enigmatic strategist.... As she rockets up the ranks, Mallory struggles to keep her family safely separated from the game that wrecked it in the first place. And as her love for the sport she so desperately wanted to hate begins to rekindle, Mallory quickly realizes that the games aren’t only on the board, the spotlight is brighter than she imagined, and the competition can be fierce (-ly attractive. And intelligent…and infuriating…)",
+      "genre": "ROMANCE",
+      "stock": 6
+    },
+    {
+      "id": 3,
+      "title": "Friends, Love and That Terrible",
+      "author": "Matthey Perry",
+      "year": 2023,
+      "pages": 256,
+      "price": 41,
+      "imageName": "../images/friends.jpg",
+      "sale": 0,
+      "description": "In an extraordinary story that only he could tell--and in the heartfelt, hilarious, and warmly familiar way only he could tell it--Matthew Perry lays bare the fractured family that raised him (and also left him to his own devices), the desire for recognition that drove him to fame, and the void inside him that could not be filled even by his greatest dreams coming true. But he also details the peace he's found in sobriety and how he feels about the ubiquity of Friends, sharing stories about his castmates and other stars he met along the way. Frank, self-aware, and with his trademark humor, Perry vividly depicts his lifelong battle with addiction and what fueled it despite seemingly having it all. Friends, Lovers, and the Big Terrible Thing is an unforgettable memoir that is both intimate and eye-opening--as well as a hand extended to anyone struggling with sobriety. Unflinchingly honest, moving, and uproariously funny, this is the book fans have been waiting for.",
+      "genre": "FICTION",
+      "stock": 15
+    },
+    {
+      "id": 4,
+      "title": "The Underworld",
+      "author": "Susan Casey",
+      "year": 2023,
+      "pages": 456,
+      "price": 53,
+      "imageName": "../images/underworld.jpg",
+      "sale": 50,
+      "description": "For all of human history, the deep ocean has been a source of wonder and terror, an unknown realm that evoked a singular, compelling question: What’s down there? Unable to answer this for centuries, people believed the deep was a sinister realm of fiendish creatures and deadly peril. But now, cutting-edge technologies allow scientists and explorers to dive miles beneath the surface, and we are beginning to understand this strange and exotic underworld:  A place of soaring mountains, smoldering volcanoes, and valleys 7,000 feet deeper than Everest is high, where tectonic plates collide and separate, and extraordinary life forms operate under different rules. Far from a dark void, the deep is a vibrant realm that’s home to pink gelatinous predators and shimmering creatures a hundred feet long and ancient animals with glass skeletons and sharks that live for half a millennium—among countless other marvels.",
+      "genre": "NATURE",
+      "stock": 10
+    },
+    {
+      "id": 5,
+      "title": "Land of Milk and Honey",
+      "author": "C Pam Zhang",
+      "year": 2023,
+      "pages": 289,
+      "price": 34,
+      "imageName": "../images/milkhoney.jpg",
+      "sale": 0,
+      "description": "A smog has spread. Food crops are rapidly disappearing. A chef escapes her dying career in a dreary city to take a job at a decadent mountaintop colony seemingly free of the world’s troubles. There, the sky is clear again. Rare ingredients abound. Her enigmatic employer and his visionary daughter have built a lush new life for the global elite, one that reawakens the chef to the pleasures of taste, touch, and her own body. In this atmosphere of hidden wonders and cool, seductive violence, the chef’s boundaries undergo a thrilling erosion. Soon she is pushed to the center of a startling attempt to reshape the world far beyond the plate. Sensuous and surprising, joyous and bitingly sharp, told in language as alluring as it is original, Land of Milk and Honey lays provocatively bare the ethics of seeking pleasure in a dying world. It is a daringly imaginative exploration of desire and deception, privilege and faith, and the roles we play to survive. Most of all, it is a love letter to food, to wild delight, and to the transformative power of a woman embracing her own appetite.",
+      "genre": "FICTION",
+      "stock": 25
+    },
+    {
+      "id": 6,
+      "title": "The Lord Of The Rings",
+      "author": "J.R.R. Tolkien",
+      "year": "1954-1955",
+      "pages": 1216,
+      "price": 138,
+      "imageName": "../images/thelord.jpg",
+      "sale": 20,
+      "description": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them. In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell by chance into the hands of the hobbit Bilbo Baggins. From Sauron's fastness in the Dark Tower of Mordor, his power spread far and wide. Sauron gathered all the Great Rings to him, but always he searched for the One Ring that would complete his dominion. When Bilbo reached his eleventy-first birthday he disappeared, bequeathing to his young cousin Frodo the Ruling Ring and a perilous quest: to journey across Middle-earth, deep into the shadow of the Dark Lord, and destroy the Ring by casting it into the Cracks of Doom. The Lord of the Rings tells of the great quest undertaken by Frodo and the Fellowship of the Ring: Gandalf the Wizard; the hobbits Merry, Pippin, and Sam; Gimli the Dwarf; Legolas the Elf; Boromir of Gondor; and a tall, mysterious stranger called Strider.",
+      "genre": "SF",
+      "stock": 13
+    },
+    {
+      "title": "The Wind Knows My Name",
+      "author": "Isabel Allende",
+      "year": "2023",
+      "pages": 289,
+      "price": 34,
+      "sale": "5",
+      "description": "Vienna, 1938. Samuel Adler was six years old when his father disappeared during Kristallnacht—the night their family lost everything. Samuel’s mother secured a spot for him on the last Kindertransport train out of Nazi-occupied Austria to the United Kingdom, which he boarded alone, carrying nothing but a change of clothes and his violin. Arizona, 2019. Eight decades later, Anita Diaz, a blind seven-year-old girl, and her mother board another train, fleeing looming danger in El Salvador and seeking refuge in the United States. However, their arrival coincides with the new family separation policy, and Anita finds herself alone at a camp in Nogales. She escapes through her trips to Azabahar, a magical world of the imagination she created with her sister back home. Anita’s case is assigned to Selena Duran, a young social worker who enlists the help of a promising lawyer from one of San Francisco’s top law firms. Together they discover that Anita has another family member in the United States: Leticia Cordero, who is employed at the home of now eighty-six-year-old Samuel Adler, linking these two lives.",
+      "genre": "FICTION",
+      "stock": "11",
+      "imageName": "https://ucarecdn.com/5e2e8088-8716-4515-a4cf-760e4d68b4f4/",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "year": 2006,
+      "pages": 440,
+      "price": 32,
+      "imageName": "../images/bookth1.jpg",
+      "sale": 25,
+      "description": "It is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will become busier still. Liesel Meminger is a foster girl living outside of Munich, who scratches out a meager existence for herself by stealing when she encounters something she can’t resist–books. With the help of her accordion-playing foster father, she learns to read and shares her stolen books with her neighbors during bombing raids as well as with the Jewish man hidden in her basement. In superbly crafted writing that burns with intensity, award-winning author Markus Zusak, author of I Am the Messenger, has given us one of the most enduring stories of our time.",
+      "genre": "HISTORY",
+      "stock": 5
+    },
+    {
+      "id": 9,
+      "title": "The Two Towers",
+      "author": "J.R.R. Tolkien",
+      "year": 1954,
+      "pages": 448,
+      "price": 45,
+      "imageName": "../images/twotowers.jpg",
+      "sale": 20,
+      "description": "The Two Towers is the second part of J.R.R. Tolkien’s epic adventure The Lord of the Rings. Frodo and his Companions of the Ring have been beset by danger during their quest to prevent the Ruling Ring from falling into the hands of the Dark Lord by destroying it in the Cracks of Doom. They have lost the wizard, Gandalf, in a battle in the Mines of Moria. And Boromir, seduced by the power of the Ring, tried to seize it by force. While Frodo and Sam made their escape, the rest of the company was attacked by Orcs. Now they continue the journey alone down the great River Anduin—alone, that is, save for the mysterious creeping figure that follows wherever they go.",
+      "genre": "SF",
+      "stock": 3
+    },
+    {
+      "id": 10,
+      "title": "The Fellowship Of The Ring",
+      "author": "J.R.R. Tolkien",
+      "year": 1954,
+      "pages": 432,
+      "price": 47,
+      "imageName": "../images/fellowship.jpg",
+      "sale": 20,
+      "description": "In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell into the hands of Bilbo Baggins, as told in The Hobbit. In a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as his elderly cousin Bilbo entrusts the Ring to his care. Frodo must leave his home and make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ring and foil the Dark Lord in his evil purpose.",
+      "genre": "SF",
+      "stock": 4
+    },
+    {
+      "id": 11,
+      "title": "999: Auschwitz",
+      "author": "Heather Macadam",
+      "year": 2022,
+      "pages": 412,
+      "price": 38.5,
+      "imageName": "../images/999.jpg",
+      "sale": 20,
+      "description": "On March 25, 1942, nearly a thousand young, unmarried Jewish women boarded a train in Poprad, Slovakia. Filled with a sense of adventure and national pride, they left their parents’ homes wearing their best clothes and confidently waving good-bye. Believing they were going to work in a factory for a few months, they were eager to report for government service. Instead, the young women—many of them teenagers—were sent to Auschwitz. Their government paid 500 Reich Marks (about $200) apiece for the Nazis to take them as slave labor. Of those 999 innocent deportees, only a few would survive.",
+      "genre": "HISTORY",
+      "stock": 0
+    },
+    {
+      "id": 12,
+      "title": "The Boy in the Striped Pajamas",
+      "author": "John Boyne",
+      "year": 2006,
+      "pages": 224,
+      "price": 38.5,
+      "imageName": "../images/pyjamas.jpg",
+      "sale": 10,
+      "description": "John Boyne's premise is that the nine-year old son of the commandant of Auschwitz, bored with his isolated life, takes walks to the fence surrounding this infamous camp and meets there a nine-year old inmate who is on the other side of the fence. The two boys become friends and continue meeting on a daily basis. ",
+      "genre": "HISTORY",
+      "stock": 5
+    },
+    {
+      "id": 16,
+      "title": "Better Living Through Birding",
+      "author": "Christian Cooper",
+      "year": 2023,
+      "pages": 344,
+      "price": 52,
+      "imageName": "../images/birding.jpg",
+      "sale": 0,
+      "description": "In Better Living Through Birding, Cooper tells the story of his extraordinary life leading up to the now-infamous incident in Central Park and shows how a life spent looking up at the birds prepared him, in the most uncanny of ways, to be a gay, Black man in America today. From sharpened senses that work just as well at a protest as in a park to what a bird like the Common Grackle can teach us about self-acceptance, Better Living Through Birding exults in the pleasures of a life lived in pursuit of the natural world and invites you to discover them yourself.",
+      "genre": "NATURE",
+      "stock": 3
+    },
+    {
+      "id": 17,
+      "title": "The Shining",
+      "author": "Stehen King",
+      "year": 1977,
+      "pages": 497,
+      "price": 51,
+      "imageName": "../images/shining.jpg",
+      "sale": 10,
+      "description": "Jack Torrance's new job at the Overlook Hotel is the perfect chance for a fresh start. As the off-season caretaker at the atmospheric old hotel, he'll have plenty of time to spend reconnecting with his family and working on his writing. But as the harsh winter weather sets in, the idyllic location feels ever more remote...and more sinister. And the only one to notice the strange and terrible forces gathering around the Overlook is Danny Torrance, a uniquely gifted five-year-old.",
+      "genre": "MISTERY",
+      "stock": 5
+    },
+    {
+      "id": 18,
+      "title": "The Institute",
+      "author": "Stehen King",
+      "year": 2019,
+      "pages": 561,
+      "price": 59,
+      "imageName": "../images/institute.jpg",
+      "sale": 16,
+      "description": "In the middle of the night, in a house on a quiet street in suburban Minneapolis, intruders silently murder Luke Ellis’s parents and load him into a black SUV. The operation takes less than two minutes. Luke will wake up at The Institute, in a room that looks just like his own, except there’s no window. And outside his door are other doors, behind which are other kids with special talents—telekinesis and telepathy—who got to this place the same way Luke did: Kalisha, Nick, George, Iris, and ten-year-old Avery Dixon. They are all in Front Half. Others, Luke learns, graduated to Back Half, “like the roach motel,” Kalisha says. “You check in, but you don’t check out.”. In this most sinister of institutions, the director, Mrs. Sigsby, and her staff are ruthlessly dedicated to extracting from these children the force of their extranormal gifts. There are no scruples here. If you go along, you get tokens for the vending machines. If you don’t, punishment is brutal. As each new victim disappears to Back Half, Luke becomes more and more desperate to get out and get help. But no one has ever escaped from the Institute.",
+      "genre": "MISTERY",
+      "stock": 13
+    },
+    {
+      "id": 19,
+      "title": "The Return Of The King",
+      "author": "J.R.R. Tolkien",
+      "year": 1955,
+      "pages": 432,
+      "price": 43,
+      "imageName": "../images/returnking.jpg",
+      "sale": 20,
+      "description": "Begin your journey into Middle-earth. The inspiration for the upcoming original series on Prime Video, The Lord of the Rings: The Rings of Power. The Return of the King is the third part of J.R.R. Tolkien’s epic adventure The Lord of the Rings. One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them. The Dark Lord has risen, and as he unleashes hordes of Orcs to conquer all Middle-earth, Frodo and Sam struggle deep into his realm in Mordor. To defeat Sauron, the One Ring must be destroyed in the fires of Mount Doom. But the way is impossibly hard, and Frodo is weakening. The Ring corrupts all who bear it and Frodo’s time is running out. Will Sam and Frodo succeed, or will the Dark Lord rule Middle-earth once more?",
+      "genre": "SF",
+      "stock": 9
+    },
+    {
+      "id": 20,
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "year": 2012,
+      "pages": 313,
+      "price": 37,
+      "imageName": "../images/thefault.jpg",
+      "sale": 30,
+      "description": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten. Insightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love.",
+      "genre": "ROMANCE",
+      "stock": 6
+    },
+    {
+      "id": 21,
+      "title": "It Ends With Us",
+      "author": "Collen Hoover",
+      "year": 2016,
+      "pages": 386,
+      "price": 42,
+      "imageName": "../images/ends.jpg",
+      "sale": 15,
+      "description": "Lily hasn’t always had it easy, but that’s never stopped her from working hard for the life she wants. She’s come a long way from the small town in Maine where she grew up — she graduated from college, moved to Boston, and started her own business. So when she feels a spark with a gorgeous neurosurgeon named Ryle Kincaid, everything in Lily’s life suddenly seems almost too good to be true. Ryle is assertive, stubborn, maybe even a little arrogant. He’s also sensitive, brilliant, and has a total soft spot for Lily. And the way he looks in scrubs certainly doesn’t hurt. Lily can’t get him out of her head. But Ryle’s complete aversion to relationships is disturbing. Even as Lily finds herself becoming the exception to his “no dating” rule, she can’t help but wonder what made him that way in the first place. As questions about her new relationship overwhelm her, so do thoughts of Atlas Corrigan — her first love and a link to the past she left behind. He was her kindred spirit, her protector. When Atlas suddenly reappears, everything Lily has built with Ryle is threatened.",
+      "genre": "ROMANCE",
+      "stock": 4
+    },
+    {
+      "id": 22,
+      "title": "It Starts With Us",
+      "author": "Collen Hoover",
+      "year": 2022,
+      "pages": 323,
+      "price": 45,
+      "imageName": "../images/starts.jpg",
+      "sale": 0,
+      "description": "Lily and her ex-husband, Ryle, have just settled into a civil coparenting rhythm when she suddenly bumps into her first love, Atlas, again. After nearly two years separated, she is elated that for once, time is on their side, and she immediately says yes when Atlas asks her on a date. But her excitement is quickly hampered by the knowledge that, though they are no longer married, Ryle is still very much a part of her life—and Atlas Corrigan is the one man he will hate being in his ex-wife and daughter’s life. Switching between the perspectives of Lily and Atlas, It Starts with Us picks up right where the epilogue for the “gripping, pulse-pounding” (Sarah Pekkanen, author of Perfect Neighbors) bestselling phenomenon It Ends with Us left off. Revealing more about Atlas’s past and following Lily as she embraces a second chance at true love while navigating a jealous ex-husband, it proves that “no one delivers an emotional read like Colleen Hoover” (Anna Todd, New York Times bestselling author).",
+      "genre": "ROMANCE",
+      "stock": 5
+    },
+    {
+      "id": 23,
+      "title": "As Long As The Lemon Trees Grow",
+      "author": "Zoulfa Katouh",
+      "year": 2022,
+      "pages": 417,
+      "price": 51,
+      "imageName": "../images/lemon1.jpg",
+      "sale": 0,
+      "description": "Salama Kassab was a pharmacy student when the cries for freedom broke out in Syria. She still had her parents and her big brother; she still had her home. She had a normal teenager’s life. Now Salama volunteers at a hospital in Homs, helping the wounded who flood through the doors daily. Secretly, though, she is desperate to find a way out of her beloved country before her sister-in-law, Layla, gives birth. So desperate, that she has manifested a physical embodiment of her fear in the form of her imagined companion, Khawf, who haunts her every move in an effort to keep her safe. But even with Khawf pressing her to leave, Salama is torn between her loyalty to her country and her conviction to survive. Salama must contend with bullets and bombs, military assaults, and her shifting sense of morality before she might finally breathe free. And when she crosses paths with the boy she was supposed to meet one fateful day, she starts to doubt her resolve in leaving home at all. Soon, Salama must learn to see the events around her for what they truly are—not a war, but a revolution—and decide how she, too, will cry for Syria’s freedom.",
+      "genre": "ROMANCE",
+      "stock": 5
+    }
+  ],
+  "orders": [
+    {
+      "order": {
+        "Name": "Larisa",
+        "Surname": "Onciu",
+        "Contact": "0721646969",
+        "Email Adress": "larisaonciu97@gmail.com",
+        "Street": "Garii, nr 1, Bloc C, ap 10",
+        "ZipCode": "132131",
+        "City": "Sighisoara",
+        "Notes": "Nr interfon: 14",
+        "books": []
+      },
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "larisaonciu97@gmail.com",
+      "password": "1234",
+      "isUserAdmin": true
+    },
+    {
+      "email": "larisao@yahoo.com",
+      "password": "12345",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+.about{
+    color: whitesmoke;
+}
+
+.about .p1{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 100;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 40px;
+}
+
+.about .p2{
+    font-size: 17px;
+    padding: 40px;
+}

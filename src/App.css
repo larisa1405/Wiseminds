@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(99, 63, 63);
+}
+
+html {
+  font-size: 75.5%;
+}
+
+.h1-sales {
+  padding: 10px;
+  margin: 30px;
+  color: whitesmoke;
+}
+
+.static-page {
+  min-height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}

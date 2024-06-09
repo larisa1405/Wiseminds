@@ -1,0 +1,49 @@
+.book {
+    border-radius: 1rem;
+    padding: 0.5rem;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 5px rgb(240, 194, 194);
+    transition: .5s;
+    text-align: center;
+    position: relative;
+    background-color: rgb(202, 174, 141);
+}
+
+.amount-cut {
+    text-decoration: line-through;
+}
+
+.sale-amount {
+    color: red;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 25px;
+    display: grid;
+    grid-template-columns: repeat(5, minmax(250px, 0.5fr));
+    grid-gap: 20px;
+    box-sizing: border-box;
+}
+
+.book:hover {
+    transform: scale(0.9);
+    background-color: rgba(255, 255, 255, 0.8);
+    cursor: pointer;
+}
+
+.book img {
+    width: 150px;
+    height: 230px;
+}
+
+.no-book {
+    color: whitesmoke;
+    margin-bottom: 600px;
+    font-size: 25px;
+}
+
+.bottom {
+    color: black;
+}

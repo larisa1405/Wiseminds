@@ -1,0 +1,21 @@
+.thy {
+    text-align: center;
+    color: whitesmoke;
+}
+
+.thy-p {
+    font-size: 17px;
+    margin-bottom: 40px;
+}
+
+.thy-p2 {
+    font-size: 17px;
+    font-style: italic;
+}
+
+
+@media screen and (max-width: 932px) {
+    .thy-img {
+        display: none;
+    }
+}

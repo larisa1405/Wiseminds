@@ -1,0 +1,30 @@
+.register{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: whitesmoke;
+}
+
+.inputRegister{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.btn-register{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding: 5px;
+    cursor: pointer;
+    background-color: rgb(192, 144, 84);
+}
+
+.btn-register:hover{
+    opacity: 0.7;
+}

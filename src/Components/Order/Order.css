@@ -1,0 +1,139 @@
+
+.center{
+    margin: 35px;
+    color: whitesmoke;  
+}
+
+.name{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.adress{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.payment{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.input{
+    width:350px;
+    height: 30px;
+    border-radius: 10px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+
+.placeorder{
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.placeorder:hover{
+    opacity: 0.7;
+}
+
+.booksToBuy{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px;
+    background: white;
+    padding: 10px;
+    color: blacK;
+}
+
+.imgBuy{
+    width: 100px;
+}
+
+.container-order{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.row{
+    padding: 5px;
+    color: whitesmoke;
+}
+
+.remove{
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(99, 63, 63);
+    color: white;
+    height: 30px;
+    padding: 5px;
+}
+
+.remove:hover{
+    opacity: 0.7;
+}
+
+.total{
+    margin-top: 30px;
+    font-size: 17px;
+}
+
+.btn1{
+    margin-right: 5px;
+    margin-left: 5px;
+    width: 15px;
+}
+
+.btn2{
+    width: 15px;
+}
+.notes{
+    width: 300px;
+    height: 50px;
+}
+
+.card-input{
+   width: 200px;
+   height: 30px;
+   border-radius: 10px;
+   margin-right: 10px;
+   margin-top: 10px;
+   padding: 5px;
+}
+
+@media screen and (max-width: 412px){
+    .row{
+       justify-content: center;
+    }
+
+    .input{
+        width:300px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .container-order{
+        display: grid;
+        padding: 30px;
+    }
+   .name{
+        display: flex;
+        flex-direction: column;
+   }
+   .adress{
+        display: flex;
+        flex-direction: column;
+   }
+}
+
